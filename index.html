@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://github.com/Balaji-9941/TASKEN-WEB-APP/blob/main/TASKEN%20LOGO.jpg?raw=true"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="src/output.css" rel="stylesheet" />
+    <link rel="stylesheet" href="src/style.css" />
+  </head>
+  <body onload="initialLoader() ">
+    <section>
+      <header>
+        <nav id="navbar" class="flex h-[70px] bg-blue-900">
+          <div id="logo" class="w-[100%] h-[100%]">
+            <img
+              src="assets/bax_logo-removebg-preview.png"
+              alt=""
+              width="130px"
+              id="LOGO"
+            />
+          </div>
+          <div id="search" class="w-[100%] flex items-center"></div>
+          <div
+            id="dropdown_menu"
+            class="w-[100%] h-[100%] flex justify-center items-center"
+          >
+            <select
+              id="search_select"
+              class="w-[200px] h-[50%] outline-0 border-2 bg-gray-300"
+              onchange="searchUpdater()"
+            >
+              <option value="Song">Search by Song</option>
+              <option value="Author">Search by Author</option>
+            </select>
+          </div>
+        </nav>
+      </header>
+      <main>
+        <div
+          id="search_mobile"
+          class="w-[100%] flex justify-center"
+          style="margin-top: 20px"
+        ></div>
+        <div
+          id="main_body"
+          class="w-[100%] mt-10 flex flex-wrap gap-6 justify-center"
+        ></div>
+
+        <div id="songPlayer" class="fixed bottom-0 w-[100%] flex"></div>
+        <div id="songinfo" style="transition-delay: 5s"></div>
+      </main>
+    </section>
+    <script src="src/script.js"></script>
+  </body>
+</html>

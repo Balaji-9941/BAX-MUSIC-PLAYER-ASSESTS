@@ -1,0 +1,70 @@
+body {
+  background-color: lightyellow;
+}
+.img_part {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  .play_btn {
+    display: none;
+  }
+}
+.img_part:hover {
+  .play_btn {
+    display: block;
+  }
+}
+.img_part:hover {
+  box-shadow: 2px 2px 10px red;
+}
+
+@media screen and (max-width: 400px) {
+  #search {
+    display: none;
+  }
+  #main_body {
+    padding: 0px;
+    justify-content: space-around;
+    gap: 10px;
+  }
+}
+@media screen and (max-width: 760px) {
+  #search {
+    display: none;
+  }
+  #main_body {
+    gap: 1px;
+  }
+  #navbar {
+    height: 50px;
+  }
+  #LOGO {
+    width: 100px;
+  }
+  #dropdown_menu {
+    width: 150px;
+    height: 60px;
+  }
+  .songs {
+    .img_part {
+      width: 70px;
+      height: 70px;
+    }
+    .h11 {
+      font-size: 9px;
+    }
+    .h12 {
+      font-size: 7px;
+    }
+  }
+}
+@media screen and (min-width: 761px) {
+  #search_mobile {
+    display: none;
+  }
+}
+@media screen and (max-width: 1320px) {
+  #songinfo {
+    display: none;
+  }
+}
