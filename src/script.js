@@ -324,6 +324,7 @@ let data = [
   },
 ];
 function initialLoader() {
+  console.log(data.length)
   main_body.innerHTML = data
     .map((ele) => {
       return `
