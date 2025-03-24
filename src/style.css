@@ -1,7 +1,18 @@
 body {
   background-color: lightyellow;
 }
+@keyframes appear {
+  from {
+    opacity: 0;
+    scale: 10;
+  }
+  to {
+    opacity: 1;
+    scale: 1;
+  }
+}
 .img_part {
+   animation: appear 1s ease-in-out;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
