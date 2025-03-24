@@ -172,7 +172,7 @@ function initialLoader() {
         img: "https://c.saavncdn.com/304/Meesaya-Murukku-Tamil-2017-20170822060308-500x500.jpg",
         title: "Vadi pulla vadi",
         author: "Hip Hop Tamizha",
-        link: "h0ttps://drive.google.com/file/d/1mQCiys_QonW-4Wvd5r37Ycfua-fy0Hi1/preview",
+        link: "https://drive.google.com/file/d/1mQCiys_QonW-4Wvd5r37Ycfua-fy0Hi1/preview",
         count: "0",
       },
       {
