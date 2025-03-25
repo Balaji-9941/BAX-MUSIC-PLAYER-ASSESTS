@@ -17,7 +17,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="src/output.css" rel="stylesheet" />
     <link rel="stylesheet" href="src/style.css" />
-    <title>BAX</title>
   </head>
   <body onload="initialLoader() ">
     <section>
@@ -25,9 +24,9 @@
         <nav id="navbar" class="flex h-[70px] bg-blue-900">
           <div id="logo" class="w-[100%] h-[100%]">
             <img
-              src="assets/LOGO.png"
-              alt=""
-              width="130px"
+              src="https://github.com/Balaji-9941/BAX-MUSIC-PLAYER/blob/main/assets/LOGO.png?raw=true"
+              alt="logo"
+              width="120px"
               id="LOGO"
             />
           </div>
@@ -38,7 +37,7 @@
           >
             <select
               id="search_select"
-              class="w-[200px] h-[50%] outline-0 border-2 bg-gray-300"
+              class="w-[200px] h-[50%] outline-0 border-2 bg-gray-200 rounded-2xl"
               onchange="searchUpdater()"
             >
               <option value="Song">Search by Song</option>
@@ -58,8 +57,7 @@
           class="w-[100%] mt-10 flex flex-wrap gap-6 justify-center"
         ></div>
 
-        <div id="songPlayer" class="fixed bottom-0 w-[100%] flex"></div>
-        <div id="songinfo" style="transition-delay: 5s"></div>
+        <div id="songPlayer" class="fixed bottom-0 w-[100%]"></div>
       </main>
     </section>
     <script src="src/script.js"></script>
