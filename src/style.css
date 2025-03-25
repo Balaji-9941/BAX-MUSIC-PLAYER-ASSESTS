@@ -12,7 +12,7 @@ body {
   }
 }
 .img_part {
-   animation: appear 1s ease-in-out;
+  animation: appear 1s ease-in-out;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -50,7 +50,7 @@ body {
     height: 50px;
   }
   #LOGO {
-    width: 100px;
+    width: 90px;
   }
   #dropdown_menu {
     width: 150px;
@@ -74,8 +74,11 @@ body {
     display: none;
   }
 }
-@media screen and (max-width: 1320px) {
+@media screen and (max-width: 800px) {
   #songinfo {
     display: none;
+  }
+  #songnav {
+    width: 100vw;
   }
 }
