@@ -7,7 +7,7 @@ let data = [
     img: "https://tse4.mm.bing.net/th?id=OIP.AtAI0H9sQZpMmeRsGXHavQHaHa&pid=Api&P=0&h=180",
     title: "Kaavala",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1xnS8Rj8fh3yv8rQ4GtCWPREW_fdTxt8d/preview",
+    link: "https://github.com/user-attachments/assets/28b56d0f-ea8a-41eb-91c3-ba25e75def11",
     count: "0",
   },
   {
@@ -15,7 +15,7 @@ let data = [
     img: "https://c.saavncdn.com/336/O-Kadhal-Kanmani-Tamil-2015-20200805153450-500x500.jpg",
     title: "Kaara Aatakara",
     author: "A.R.Rahman",
-    link: "https://drive.google.com/file/d/1m4YXjTB7oUSRGgbMcE3Q7syhcaCQXHHr/preview",
+    link: "https://github.com/user-attachments/assets/6a584299-2390-449a-8482-cde1145263aa",
     count: "0",
   },
   {
@@ -23,7 +23,7 @@ let data = [
     img: "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
     title: "Yaakai thiri",
     author: "A.R.Rahman",
-    link: "https://drive.google.com/file/d/1nNBJ5zKlyfveMSveicpkW1RcD87IBwrZ/preview",
+    link: " https://github.com/user-attachments/assets/793a52ff-231e-427c-b142-a11b5da9929c",
     count: "0",
   },
   {
@@ -31,7 +31,7 @@ let data = [
     img: "https://c.saavncdn.com/934/Golden-Sparrow-From-Nilavuku-En-Mel-Ennadi-Kobam-Tamil-2024-20241116194614-500x500.jpg",
     title: "Golden Sparrow",
     author: "G.V.Prakash",
-    link: "https://drive.google.com/file/d/1nIC1snxqro3Cahse5Z5UjJ-pftisLRWU/preview",
+    link: "https://github.com/user-attachments/assets/b9e2be71-62fb-485b-a4b4-47f037a22149",
     count: "0",
   },
   {
@@ -39,7 +39,7 @@ let data = [
     img: "https://tse1.mm.bing.net/th?id=OIP.Ud9K_U03B7OsBaSFQP9bpQHaHa&pid=Api&P=0&h=180",
     title: "Hey Minnale",
     author: "G.V.Prakash",
-    link: "https://drive.google.com/file/d/1nHMT4M73PZnFiQ02EaLAhNj01vR1sMPN/preview",
+    link: "https://github.com/user-attachments/assets/8ef9607e-9a52-4fcf-bfca-76fc2ebfe6ab",
     count: "0",
   },
   {
@@ -47,7 +47,7 @@ let data = [
     img: "https://tse1.mm.bing.net/th?id=OIP.QGJJ1dBEaR3OXtE3MdYGEwHaHa&pid=Api&P=0&h=180",
     title: "Manasilayo",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1nG0L5kkV1eXG1HL_5wn5FKnFTIJACzCK/preview",
+    link: "https://github.com/user-attachments/assets/68fc07af-90e0-4667-b855-e7306315ba2b",
     count: "0",
   },
   {
@@ -55,7 +55,7 @@ let data = [
     img: "https://tse4.mm.bing.net/th?id=OIP.u-KZxbEXgLYQoWOfG1Cp5QHaHa&pid=Api&P=0&h=180",
     title: "Arabic Kuthu",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1nC7-p162fHDy2nA0YFZTTiFTw2gbsnnd/preview",
+    link: "https://github.com/user-attachments/assets/64de11e8-7690-4939-ba15-21dd0eb36046",
     count: "0",
   },
   {
@@ -63,7 +63,7 @@ let data = [
     img: "https://tse1.mm.bing.net/th?id=OIP.zbYhA0yQjDw0ByBCFRDhJAHaHa&pid=Api&P=0&h=180",
     title: "Boomi enna Suthudhe",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1n7MRnt1yY6ORucEJ19woW8Oo59c1LEsi/preview",
+    link: "https://github.com/user-attachments/assets/6551f24e-f165-4666-bc8a-aaf236402f16",
     count: "0",
   },
   {
@@ -71,7 +71,7 @@ let data = [
     img: "https://tse2.mm.bing.net/th?id=OIP.afhGc8QJz2lK7dV7w5IxVQHaHa&pid=Api&P=0&h=180",
     title: "Thee Thalapathy",
     author: "Thaman S",
-    link: "https://drive.google.com/file/d/1n5rnRozohICjHeKNVVN6tg3xvY1Ola1i/preview",
+    link: "https://github.com/user-attachments/assets/5e02e994-fb47-4a06-9cf4-39669c0aa08c",
     count: "0",
   },
   {
@@ -79,7 +79,7 @@ let data = [
     img: "https://c.saavncdn.com/984/Paiya-Tamil-2010-20200620134043-500x500.jpg",
     title: "Adada Mazhaida",
     author: "Yuvan Shankar Raja",
-    link: "https://drive.google.com/file/d/1mzSpvXh211E3WfKuSUY2-7-lTegJsKJp/preview",
+    link: "https://github.com/user-attachments/assets/38aacd1d-86b5-48bb-99c4-b0fa94b02325",
     count: "0",
   },
   {
@@ -87,7 +87,7 @@ let data = [
     img: "https://c.saavncdn.com/274/Anegan-Tamil-2014-20190822152158-500x500.jpg",
     title: "Danga Maari Oodhari",
     author: "Harris Jeyaraj",
-    link: "https://drive.google.com/file/d/1mvHB9HPxqw3syDqhZAPkW298hNBjPSrb/preview",
+    link: "https://github.com/user-attachments/assets/a3e40a0a-96cd-4a88-a242-b281a44b5219",
     count: "0",
   },
   {
@@ -95,7 +95,7 @@ let data = [
     img: "https://c.saavncdn.com/590/I-Tamil-2014-20190822153052-500x500.jpg",
     title: "Ennodu Nee Irundhal",
     author: "A.R.Rahman",
-    link: "https://drive.google.com/file/d/1mkpIoExAFf0pDPGKiOCMsSI_NTE5eWv_/preview",
+    link: "https://github.com/user-attachments/assets/96ac84ca-85d4-41ed-bfb7-50cfefcc9cd2",
     count: "0",
   },
   {
@@ -103,7 +103,7 @@ let data = [
     img: "https://c.saavncdn.com/289/Pathu-Thala-Original-Motion-Picture-Soundtrack-Tamil-2023-20230320144505-500x500.jpg",
     title: "Pathu thala",
     author: "A.R.Rahman",
-    link: "https://drive.google.com/file/d/1mhygzGKV8Nnd1hX_vrx6VDoc1mmWm731/preview",
+    link: "https://github.com/user-attachments/assets/217049a9-921e-4b75-ac88-615c7ca55cd4",
     count: "0",
   },
   {
@@ -111,7 +111,7 @@ let data = [
     img: "https://c.saavncdn.com/224/Flag-Anthem-Tamilaga-Vettri-Kazhagam-Tamil-2024-20240823142028-500x500.jpg",
     title: "TVK Flag Anthem",
     author: "Thalapathy Vijay",
-    link: "https://drive.google.com/file/d/1mfyPGVYT6UNetztjpS5gP9Njiq9yyW96/preview",
+    link: "https://github.com/user-attachments/assets/239fc295-5424-43e2-be21-3d4a863cc284",
     count: "0",
   },
   {
@@ -119,7 +119,7 @@ let data = [
     img: "https://tse1.mm.bing.net/th?id=OIP.XdFL2PZHy4rpvnphuZmASQHaHa&pid=Api&P=0&h=180",
     title: "Illuminati",
     author: "Susin Shyam",
-    link: "https://drive.google.com/file/d/1mcXemmNh_U49MCoG4YsCCEsXoIOTNyrP/preview",
+    link: "https://github.com/user-attachments/assets/0e63aea2-8f86-486e-b7b1-9f9ab4e7a3bd",
     count: "0",
   },
   {
@@ -127,7 +127,7 @@ let data = [
     img: "https://c.saavncdn.com/113/Vidaamuyarchi-Tamil-2025-20250217133052-500x500.jpg",
     title: "Pathikichu",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mbHx_eXfnPfRQ23sj5Sl4PJ3CrWLVq6z/preview",
+    link: "https://github.com/user-attachments/assets/0dfcbfa8-9c60-47cc-baa3-83400c5774ae",
     count: "0",
   },
   {
@@ -135,7 +135,7 @@ let data = [
     img: "https://c.saavncdn.com/415/Leo-Original-Motion-Picture-Soundtrack-English-2023-20231019170311-500x500.jpg",
     title: "Baadas",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mbGY5MksQPU_aTsk6mhKF1Evm4oHcSL6/preview",
+    link: "https://github.com/user-attachments/assets/7a8b15d1-571a-4ec1-a11b-0bc13ee8508b",
     count: "0",
   },
   {
@@ -143,7 +143,7 @@ let data = [
     img: "https://c.saavncdn.com/492/Mersal-Tamil-2017-20170820120559-500x500.jpg",
     title: "Aalaporan Tamizhan",
     author: "A.R.Rahman",
-    link: "https://drive.google.com/file/d/1m_KvtQ29J0CilRLf_Evb7knpSe3zpr8B/preview",
+    link: "https://github.com/user-attachments/assets/f72483e1-1b08-4989-81dd-ce77b24e0f98",
     count: "0",
   },
   {
@@ -151,7 +151,7 @@ let data = [
     img: "https://c.saavncdn.com/377/Good-Night-Tamil-2023-20230520150605-500x500.jpg",
     title: "Naan Gaali",
     author: "Sean Roldan",
-    link: "https://drive.google.com/file/d/1mXnTmj9ZPH0mE2Xq1hKp0VnUGLRX0Qrt/preview",
+    link: "https://github.com/user-attachments/assets/2114a398-f9ee-45d0-92d1-c30edf19c239",
     count: "0",
   },
   {
@@ -159,7 +159,7 @@ let data = [
     img: "https://c.saavncdn.com/470/David-2012-500x500.jpg",
     title: "Kanave Kanave",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mRmuCYaRcl29NE-IVAcxOIEAB9FrMTXf/preview",
+    link: "https://github.com/user-attachments/assets/c979f779-b409-4fa3-9e66-58e0162d41fc",
     count: "0",
   },
   {
@@ -167,7 +167,7 @@ let data = [
     img: "https://c.saavncdn.com/304/Meesaya-Murukku-Tamil-2017-20170822060308-500x500.jpg",
     title: "Vadi pulla vadi",
     author: "Hip Hop Tamizha",
-    link: "h0ttps://drive.google.com/file/d/1mQCiys_QonW-4Wvd5r37Ycfua-fy0Hi1/preview",
+    link: "https://github.com/user-attachments/assets/a44bf699-7d11-4c15-bfaa-c8aab5142197",
     count: "0",
   },
   {
@@ -175,7 +175,7 @@ let data = [
     img: "https://c.saavncdn.com/573/Kaththi-Tamil-2014-20230701133540-500x500.jpg",
     title: "Aathi",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mQ8kswuBLaMbM-i-ihxyqS791hzZXIQk/preview",
+    link: "https://github.com/user-attachments/assets/eaed5020-f46d-4b81-9dc7-06a0cb7abdee",
     count: "0",
   },
   {
@@ -183,7 +183,7 @@ let data = [
     img: "https://c.saavncdn.com/672/Matta-From-The-Greatest-Of-All-Time-Tamil-2024-20240831141002-500x500.jpg",
     title: "Matta",
     author: "Yuvan Shankar Raja",
-    link: "https://drive.google.com/file/d/1mOiCHDUycUyc_HxhCClC1FB1N99KBdh7/preview",
+    link: "https://github.com/user-attachments/assets/9816b677-f651-4855-be24-e23a1c55172a",
     count: "0",
   },
   {
@@ -191,7 +191,7 @@ let data = [
     img: "https://c.saavncdn.com/651/Dheema-From-Love-Insurance-Kompany-Tamil-2024-20241015191442-500x500.jpg",
     title: "Dheema",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mO7yTkNZTVWEXjKEBBB03sliCrm3iJLJ/preview",
+    link: "https://github.com/user-attachments/assets/75440cf6-033e-48e3-a792-2e4f5c656684",
     count: "0",
   },
   {
@@ -199,7 +199,7 @@ let data = [
     img: "https://c.saavncdn.com/485/Velaiyilla-Pattathari-2014-500x500.jpg",
     title: "Udhungada Sangu",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mNSWBVacCSwpXAGEgOdpFKHpSfW7GUuE/preview",
+    link: "https://github.com/user-attachments/assets/09086f80-a918-49db-b171-cb77ee0d2d35",
     count: "0",
   },
   {
@@ -207,7 +207,7 @@ let data = [
     img: "https://tse2.mm.bing.net/th?id=OIP.LhjQbX9w-Nesk_npRWUfOwHaI3&pid=Api&P=0&h=180",
     title: "Ranjithame",
     author: "Thaman S",
-    link: "https://drive.google.com/file/d/1mL12zYrggtAtqUPXNzQkJvm7wUv_aBOh/preview",
+    link: "https://github.com/user-attachments/assets/fc5d9b12-dc38-4cf5-964b-30ec81ff4fd7",
     count: "0",
   },
   {
@@ -215,7 +215,7 @@ let data = [
     img: "https://tse4.mm.bing.net/th?id=OIP.FPjpUOVSJflctlyGeaELywHaHa&pid=Api&P=0&h=180",
     title: "Hukum",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mJqgZ475bZrUuogY8FYtpEa4mFmfMDia/preview  ",
+    link: "https://github.com/user-attachments/assets/3dfd332b-9f03-43bb-a0ac-fe7506b2262e",
     count: "0",
   },
   {
@@ -223,7 +223,7 @@ let data = [
     img: "https://tse4.mm.bing.net/th?id=OIP.XKqEYmtXmOgtVmL390FpUAHaHa&pid=Api&P=0&h=180",
     title: "Naa Ready",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1mIQFYshLEM6q2NWUCb5mpOT2YaQVSgEO/preview",
+    link: "https://github.com/user-attachments/assets/200bbe1b-f832-4dbb-b862-d06ced398e37",
     count: "0",
   },
   {
@@ -231,7 +231,7 @@ let data = [
     img: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/d4/0a/add40a42-ba24-88d0-b98d-8e288b5ea5d9/cover.jpg/800x800cc.jpg",
     title: "Makkamishi",
     author: "Harris Jeyaraj",
-    link: "https://drive.google.com/file/d/1mGk7TRmaNqoUc1_kGy2jaCrHQl0hHXRl/preview",
+    link: "https://github.com/user-attachments/assets/2a50e2f2-757b-4de3-b015-acbad01b2dce",
     count: "0",
   },
   {
@@ -239,7 +239,7 @@ let data = [
     img: "https://tse4.mm.bing.net/th?id=OIP.OrjelVpuIdielLYXBt6J5AHaHa&pid=Api&P=0&h=180",
     title: "Oh Shanthi Shanthi",
     author: "Harris Jeyaraj",
-    link: "https://drive.google.com/file/d/1mFcF43G_KbFmu8exud4hnP6T9PStaL1c/preview",
+    link: "https://github.com/user-attachments/assets/a21f742e-815f-41f6-bb91-23619992f66c",
     count: "0",
   },
   {
@@ -247,7 +247,7 @@ let data = [
     img: "https://c.saavncdn.com/435/Don-Tamil-2022-20220512162818-500x500.jpg",
     title: "Private Party",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1m93DTCio6jFGpUdSaYxyhtQKMSuK0bmL/preview",
+    link: "https://github.com/user-attachments/assets/a20da6b8-6eac-4318-ab64-2978ad3f0746",
     count: "0",
   },
   {
@@ -255,19 +255,18 @@ let data = [
     img: "https://tse3.mm.bing.net/th?id=OIP.thUkR3bqcRRX0FG0VTR-DwAAAA&pid=Api&P=0&h=180",
     title: "Chellama",
     author: "Anirudh",
-    link: "https://drive.google.com/file/d/1m5mShlK_ExbQCRycntPK7QJbgVEybPMX/preview",
+    link: "https://github.com/user-attachments/assets/0c6b408b-a707-452f-b021-82e71efc826e",
     count: "0",
   },
 ];
 function initialLoader() {
-  console.log(data.length)
   main_body.innerHTML = data
     .map((ele) => {
       return `
 <div class="songs flex flex-col items-center m-3">
             <div
             id="${ele.id}"
-              class="img_part w-[130px] h-[130px] flex justify-around items-center"
+              class="img_part w-[130px] h-[130px] flex justify-around items-center border-0 rounded-2xl"
               onclick="playing.apply(this,arguments)"
           style="background-image: url(${ele.img});"
             >
@@ -308,36 +307,32 @@ function searchUpdater() {
   let options = document.getElementById("search_select");
   inputs1.innerHTML = `<input
               type="text"
-              class="border-2 w-[100%] h-[35px] text-center bg-gray-300 rounded-3xl outline-0"
+              class="border-2 w-[100%] h-[35px] text-center bg-gray-200 rounded-3xl outline-0"
               placeholder="Search by ${options.value}"
               oninput="searchSong.apply(this,arguments)"
             />`;
   inputs2.innerHTML = `<input
             type="text"
-            class="border-2 w-[80%] h-[35px] text-center bg-gray-300 rounded-3xl"
+            class="border-2 w-[80%] h-[35px] text-center bg-gray-200 rounded-3xl"
             oninput="searchSong.apply(this,arguments)"
             placeholder="Search by ${options.value}"
           />`;
 }
 const playing = (e) => {
   songPlayer.innerHTML = `
-          <iframe
-            src="${data[e.target.id].link}"
-            width="100%"
-            height="50"
-            allow="autoplay"
-          ></iframe>
+  <div class="w-[100%] h-[60px] flex bg-[#F1F3F4] justify-between items-center">
+  <div id="songinfo" class="flex h-[100%] items-center gap-[20px] ml-5">
+  <img src=${data[e.target.id].img} alt="" width="50px" class="rounded-4xl">
+  <div>
+  <h1>Song: ${data[e.target.id].title}</h1>
+  <h1>Author: ${data[e.target.id].author}</h1>
+  </div>
+  </div>
+  <div h-[100%] w-[100%]>
+    <audio id="songnav"  class="w-[63vw]" controls autoplay loop>
+  <source src=${data[e.target.id].link} type="audio/ogg">
+</audio></div></div>
 `;
-  info.innerHTML = `
-<div class="w-[500px] h-[50px] bg-[rgb(30,30,31)] fixed bottom-0 z-10 flex gap-10 ">
-<img src="${
-    data[e.target.id].img
-  }" width="50px" class="info_img rounded-4xl ml-5">
-<div class="flex flex-col"> 
-<h1 class="text-white">Song Name: ${data[e.target.id].title}</h1>
-<h1 class="text-white">Song Title: ${data[e.target.id].author}</h1></div>
-</div>
-          `;
 };
 const searchSong = (e) => {
   let opt = document.getElementById("search_select");
@@ -360,7 +355,7 @@ const searchSong = (e) => {
 <div class="songs flex flex-col items-center m-3">
             <div
             id="${ele.id}"
-              class="img_part w-[130px] h-[130px] flex justify-around items-center"
+              class="img_part w-[130px] h-[130px] flex justify-around items-center "
               onclick="playing.apply(this,arguments)"
           style="background-image: url(${ele.img});"
             >
